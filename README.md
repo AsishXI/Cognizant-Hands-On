@@ -4,12 +4,8 @@ My solutions for the Digital Nurture 5.0 Deep Skilling program (DotNet FSE - Ang
 
 ## Topics Covered
 
-Design Patterns & Principles
+- Week 1 - Design Patterns & Principles, Data Structures & Algorithms, Advanced SQL, NUnit & Moq
+- Week 2 - Entity Framework Core, ASP.NET Core Web API
+- Week 3 - ASP.NET Core Web API (continued)
 
-Data Structures & Algorithms
-
-Advanced SQL
-
-NUnit & Moq
-
-## Folders are organized topic-wise, following the handbook sequence.
+Folders are organized week-wise, following the handbook sequence.
